@@ -52,11 +52,6 @@
 
 - 📄 Know about my experiences [https://www.figma.com/file/gppkquH6iS2SMBc8VFx0jf/James-Amattey---Product-Engineer-Resume?node-id=0%3A2](https://www.figma.com/file/gppkquH6iS2SMBc8VFx0jf/James-Amattey---Product-Engineer-Resume?node-id=0%3A2)
 
-- ⚡ Fun fact **I think I am goofy**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamattey&" alt="jamattey" /></p>
