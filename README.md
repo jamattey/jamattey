@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [django movie recommendation](https://github.com/jamattey/Django-Movie-Recommendation)
 
-- 🌱 I’m currently learning **Django, Software Architecture, IoT projects, Domain Driven Design**
+- 🌱 I’m currently learning **Blazor, Software Architecture, Arduino, Domain Driven Design**
 
 - 👯 I’m looking to collaborate on [Microservices Demo with .NET 5.0, RabbitMQ, HotChocolate](https://github.com/jamattey/microservice-demo)
 
